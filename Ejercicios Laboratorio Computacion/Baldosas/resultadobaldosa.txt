@@ -1,0 +1,5 @@
+Cliente = c16291029, Nro cajas = 33046, Costo trabajo = 1487070
+Cliente = c56465564, Nro cajas = 64830, Costo trabajo = 3630480
+Cliente = c87987897, Nro cajas = 12600, Costo trabajo = 567000
+Cliente = c99995123, Nro cajas = 138906, Costo trabajo = 7778736
+Cliente = c23132159, Nro cajas = 35030, Costo trabajo = 1576350

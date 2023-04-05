@@ -1,0 +1,6 @@
+venezuela,mexico, 10, 8, 9, 2
+mexico,cuba, 6, 8, 12.5, 3
+cuba,venezuela, 26, 20, 14, 1
+mexico,venezuela, 5, 13, 8.5, 4
+venezuela,cuba, 12, 5, 9, 0
+cuba,mexico, 1, 5, 14.5, 3
